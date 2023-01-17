@@ -1,8 +1,8 @@
 ### Olá, eu sou a Andressa Pacheco! 😄
 Me formei em Analise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi no segundo semestre de 2022. Procuro diariamente aprender sobre tecnologia, não apenas sobre Desenvolvimento Web que é o meu foco atual, mas também sobre outras areas e linguagens.
 
-🌼 Meus perfis:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-pacheco-ribeiro-a19083120/)
+🌼 Meus perfis:<br/>
+<center>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-pacheco-ribeiro-a19083120/)
 
 • 📍  Moro em São Paulo - Zona Leste. <br/>
 • 📍  Moro em São Paulo - Zona Leste.<br/>
