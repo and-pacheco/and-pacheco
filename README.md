@@ -4,9 +4,10 @@ Me formei em Analise e Desenvolvimento de Sistemas na Universidade Anhembi Morum
 🌼 Meus perfis:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-pacheco-ribeiro-a19083120/)
 
-• 📍  Moro em São Paulo - Zona Leste.
-• 🤔 Estou procurando novas experiências, compartilhando novos conteúdos e descobrindo muitas novas ferramentas incríveis.
-• 📫 Como chegar até mim: andressapachecoribeiro2@gmail.com.
+• 📍  Moro em São Paulo - Zona Leste. <br/>
+• 📍  Moro em São Paulo - Zona Leste.<br/>
+• 🤔 Estou procurando novas experiências, compartilhando novos conteúdos e descobrindo muitas novas ferramentas incríveis.<br/>
+• 📫 Como chegar até mim: andressapachecoribeiro2@gmail.com.<br/>
 
 
 ### Estatísticas do Github:
